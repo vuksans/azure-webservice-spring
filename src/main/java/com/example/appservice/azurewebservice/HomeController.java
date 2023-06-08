@@ -10,6 +10,6 @@ public class HomeController {
 
     @GetMapping("/hello")
     public String sayHello() {
-        return "Hello from Spring boot";
+        return "Hello from Spring booooot";
     }
 }
